@@ -1,4 +1,3 @@
-# CS 4442B - Assignment 1
 # hw1.py: Implements and runs functions for linear/polynomial regression,
 # regularization, cross validation, and graphing
 # Date: 2024/03/05
