@@ -1,2 +1,2 @@
 # poly-regression-from-scratch
-Linear/polynomial regression implementations from scratch using NumPy and Scikit-Learn, with regularization and cross-validation, plus data visualization and graphing with matplotlib.
+A small academic project that implements linear/polynomial regression, regularization, and cross-validation from scratch using NumPy and Scikit-Learn, plus data visualization and graphing with matplotlib.
